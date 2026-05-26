@@ -13,7 +13,7 @@ this is a termux tool
 
 ```git clone https://github.com/moretti-777/gold_penguin-.git```
 
-```cd gold_penguin```
+```cd gold_penguin-```
 # start tool
 ```python gold_penguin.py```
 # info
